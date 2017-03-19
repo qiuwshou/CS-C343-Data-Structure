@@ -1,0 +1,12 @@
+9.13
+a)It is an acceptable hash function.
+b)It is a bad hash function because it creates a lot of collisions as all the values have the same key.
+c)It is a good hash function. Because it creases the value of ¦Á so that it reduces the cost of insertion and searches.
+d)It is a good hash function because it avoids collsions when n is a prime number.
+
+
+9.14
+slot [ , , 12, 3, 9, 2, ]
+For the first slot the probability is 1/7.
+For the second slot the probability is 1/7.
+For the last slot the probability is 5/7.

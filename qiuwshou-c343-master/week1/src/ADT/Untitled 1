@@ -1,0 +1,11 @@
+3.12(a) ¦È(2)
+3.12(b) ¦È(n)
+3.12(c) ¦È(n)
+3.12(d) ¦È(n^2)
+
+An ADT for a 2-D array should have the following operations:
+1. Reinitialize the arrays.
+2. Insert or delete an integer on a specific position.
+3. Return true if the arrays are empty.
+4. Return the value of integer at a specific position.
+5, Count the number integers in the arrays.

@@ -1,0 +1,13 @@
+1)
+A [C,E]
+B [C,F]
+C [A,B,D]
+D [C,F]
+E [A,F]
+F [B,C,D]
+2)
+DFS
+[B,C,D,F,E,A]
+3)
+BFS
+[B,C,F,D,A,E]
